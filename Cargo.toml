@@ -1,0 +1,4 @@
+[package]
+name = "socket_test"
+version = "0.1.0"
+authors = ["Anthony Schubert <schubeal@gmail.com>"]
